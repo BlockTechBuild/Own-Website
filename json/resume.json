@@ -1,0 +1,459 @@
+{
+  "profile": {
+    "first_name": "Auriga",
+    "middle_names": "",
+    "last_name": "Aristo",
+    "date_of_birth": "1999-03-30",
+    "place_of_birth": "Jakarta",
+    "biography": " I am a long life learner. I am highly skilled in web development and REST API using the Laravel framework. I have experienced in mobile apps development, both Android and iOS. For Android, I use Java and Kotlin language; meanwhile, on iOS, I use Swift language. I am also interested in machine learning and flutter development.",
+    "current_location": {
+      "street": "Taman Puspa Raya",
+      "housenumber": 0,
+      "zipcode": "********",
+      "city": "Surabaya",
+      "country": "Indonesia",
+      "planet": "Earth"
+    }
+  },
+  "contact_details": {
+    "email": "aurigaaristo@gmail.com",
+    "website": "http://aurigaaristo.com/",
+    "linkedin": "https://www.linkedin.com/in/auriga-aristo/",
+    "github": "https://github.com/Rigsto",
+    "datacamp": "https://www.datacamp.com/profile/aurigaaristo",
+    "gitlab": "https://gitlab.com/Rigsto"
+  },
+  "educations": [
+    {
+      "title": "Apple Developer Academy",
+      "specification": "iOS Developer",
+      "location": "Online",
+      "level": "Internship",
+      "description": "Apple Developer Academy @ UC initiative to empower Indonesia's economy by inspiring and training world-class developers for the world's most innovative and vibrant app ecosystem.",
+      "start_date": "2020-02-01",
+      "end_date": "2020-12-01",
+      "completed": true
+    },
+    {
+      "title": "Ciputra University",
+      "specification": "Informatics (Specialization: Software Development)",
+      "location": "Surabaya",
+      "level": "Bachelor",
+      "description": "The education was mainly Java-based programming, but I also learned about SQL, PHP, Kotlin, Laravel and more. During my time in college, I specialized in website and application development.",
+      "start_date": "2017-07-01",
+      "end_date": "2021-05-01",
+      "completed": true
+    },
+    {
+      "title": "IPEKA Puri Indah",
+      "specification": "Science",
+      "location": "Jakarta",
+      "level": "High School",
+      "description": "I graduated highschool, where I enjoyed doing physics and math. When I am on the third year of school, I joined my school organization and ran an event.",
+      "start_date": "2014-07-01",
+      "end_date": "2017-06-01",
+      "completed": true
+    }
+  ],
+  "careers": [
+    {
+      "title": "Wufy: Dog Training",
+      "specification": "Backend Web Developer",
+      "location": "Online",
+      "level": "Parttime",
+      "description": "Wufy is an app that helps dog owners to train their dog by enrichment & training methods that use gamification to improve the dog’s behavior & to provide knowledge to build better understanding & relationship between the owner & the dog.",
+      "start_date": "2020-09-01",
+      "end_date": null,
+      "link": "https://apps.apple.com/id/app/wufy-dog-training/id1535423130",
+      "link_name": "App Store Link"
+    },
+    {
+      "title": "Sunflower: Skincare Reminder",
+      "specification": "iOS Developer",
+      "location": "Online",
+      "level": "Internship",
+      "description": "Sunflower is an app that helps the user track their skincare routines is for people who tend to forget their daily skincare routine by the main features: daily log and goals. This is a solution for people to remember their daily skincare routine and maximize skincare products owned by the user.",
+      "start_date": "2020-11-01",
+      "end_date": "2020-12-01",
+      "link": "https://apps.apple.com/id/app/sunflower-skincare-reminder/id1542521924",
+      "link_name": "App Store Link"
+    },
+    {
+      "title": "Allocat: Expense Tracking",
+      "specification": "iOS Developer",
+      "location": "Online",
+      "level": "Internship",
+      "description": "Allocat is an app that helps motivate young people to keep track of their expense by taking care of a virtual cat. In this app, I first time experienced developing app using SwiftUI.",
+      "start_date": "2020-11-01",
+      "end_date": "2020-11-01",
+      "link": "https://apps.apple.com/id/app/allocat-expense-tracker/id1541456346",
+      "link_name": "App Store Link"
+    },
+    {
+      "title": "Dipantry",
+      "specification": "Content Writer",
+      "location": "Medium",
+      "level": "Self-employed",
+      "description": "Dipantry shared stories and knowledge around digital product and industry. We want to help junior developer and product manager to learn something that they might not found on the internet.",
+      "start_date": "2020-09-01",
+      "end_date": null,
+      "link": "https://medium.com/dipantry",
+      "link_name": "Medium Website"
+    },
+    {
+      "title": "Fusions Visual",
+      "specification": "Web and Apps Developer",
+      "location": "Surabaya",
+      "level": "Self-employed",
+      "description": "Fusions Visual is a software development company which consist of Computer Science and Apple Developer Academy graduates. We have worked with clients from all over the world. Our designers had the opportunity to participate and won the Indonesian Dribbble community challenge partnering with Gojek (Biggest startup in Indonesia).",
+      "start_date": "2019-01-01",
+      "end_date": null,
+      "link": "https://fusionsvisual.id",
+      "link_name": "Fusions Visual Company Website"
+    }
+  ],
+  "skills": [
+    {
+      "title": "PHP",
+      "level": 5
+    },
+    {
+      "title": "MySQL",
+      "level": 5
+    },
+    {
+      "title": "HTML5",
+      "level": 5
+    },
+    {
+      "title": "CSS3",
+      "level": 5
+    },
+    {
+      "title": "Javascript",
+      "level": 3
+    },
+    {
+      "title": "JQuery",
+      "level": 3
+    },
+    {
+      "title": "SASS / SCSS",
+      "level": 4
+    },
+    {
+      "title": "JSON",
+      "level": 5
+    },
+    {
+      "title": "XML",
+      "level": 5
+    },
+    {
+      "title": "Bootstrap Framework",
+      "level": 5
+    },
+    {
+      "title": "Laravel Framework",
+      "level": 4
+    },
+    {
+      "title": "Wordpress",
+      "level": 2
+    },
+    {
+      "title": "Object Orientated Programming",
+      "level": 4
+    },
+    {
+      "title": "MVC Pattern",
+      "level": 4
+    },
+    {
+      "title": "MVVM Pattern",
+      "level": 4
+    },
+    {
+      "title": "Command line Inteface",
+      "level": 3
+    },
+    {
+      "title": "SEO",
+      "level": 1
+    },
+    {
+      "title": "Scrum",
+      "level": 3
+    },
+    {
+      "title": "Java",
+      "level": 5
+    },
+    {
+      "title": "Ruby",
+      "level": 1
+    },
+    {
+      "title": "Kotlin",
+      "level": 4
+    },
+    {
+      "title": "Flutter",
+      "level": 3
+    },
+    {
+      "title": "Swift",
+      "level": 4
+    },
+    {
+      "title": "SwiftUI",
+      "level": 3
+    },
+    {
+      "title": "Python",
+      "level": 4
+    },
+    {
+      "title": "REST API",
+      "level": 4
+    },
+    {
+      "title": "Machine Learning",
+      "level": 4
+    },
+    {
+      "title": "Git",
+      "level": 5
+    },
+    {
+      "title": "C#",
+      "level": 2
+    },
+    {
+      "title": "Leadership",
+      "level": 5
+    }
+  ],
+  "languages": [
+    {
+      "title": "Indonesian",
+      "level": 5,
+      "endorsement": "Mother tongue"
+    },
+    {
+      "title": "English",
+      "level": 4,
+      "endorsement": "Professional"
+    },
+    {
+      "title": "Japanese",
+      "level": 1,
+      "endorsement": "A little bit"
+    },
+    {
+      "title": "Javanese",
+      "level": 3,
+      "level_detailed": 2,
+      "endorsement": "Survivable"
+    }
+  ],
+  "tools": [
+    {
+      "title": "Notepad++",
+      "level": 5
+    },
+    {
+      "title": "PHPStorm",
+      "level": 5
+    },
+    {
+      "title": "FileZilla",
+      "level": 3
+    },
+    {
+      "title": "MS Office",
+      "level": 5
+    },
+    {
+      "title": "Sublime Text",
+      "level": 4
+    },
+    {
+      "title": "Windows",
+      "level": 5
+    },
+    {
+      "title": "Mac",
+      "level": 4
+    },
+    {
+      "title": "Firefox",
+      "level": 5
+    },
+    {
+      "title": "Internet Explore 10+",
+      "level": 2
+    },
+    {
+      "title": "Adobe Photoshop",
+      "level": 3
+    },
+    {
+      "title": "Sketch",
+      "level": 2
+    },
+    {
+      "title": "Git / Git Flow",
+      "level": 5
+    },
+    {
+      "title": "XAMPP",
+      "level": 5
+    },
+    {
+      "title": "Android Studio",
+      "level": 5
+    },
+    {
+      "title": "Pycharm",
+      "level": 3
+    },
+    {
+      "title": "Adobe Illustrator",
+      "level": 3
+    },
+    {
+      "title": "Adobe Premiere Pro",
+      "level": 2
+    },
+    {
+      "title": "Google Chrome",
+      "level": 3
+    },
+    {
+      "title": "Linux CentOS",
+      "level": 2
+    },
+    {
+      "title": "Linux Ubuntu",
+      "level": 3
+    },
+    {
+      "title": "Xcode",
+      "level": 4
+    },
+    {
+      "title": "Figma",
+      "level": 3
+    },
+    {
+      "title": "Unity",
+      "level": 1
+    },
+    {
+      "title": "Bootstrap Studio",
+      "level": 3
+    },
+    {
+      "title": "Cpanel",
+      "level": 4
+    },
+    {
+      "title": "Intellij IDEA",
+      "level": 5
+    },
+    {
+      "title": "Netbeans",
+      "level": 4
+    },
+    {
+      "title": "Adobe After Effects",
+      "level": 1
+    }
+  ],
+  "interpersonal": [
+    {
+      "title": "Teamwork",
+      "level": 5
+    },
+    {
+      "title": "Problem Solving",
+      "level": 5
+    },
+    {
+      "title": "Presentation Skills",
+      "level": 4
+    },
+    {
+      "title": "Leadership",
+      "level": 4
+    },
+    {
+      "title": "Public Speaking",
+      "level": 3
+    },
+    {
+      "title": "Negotiation",
+      "level": 3
+    }
+  ],
+  "interests": [
+    {
+      "title": "Music",
+      "description": "I can listen to music all day. I have a various taste of music and I listen to it when I am working and driving. Besides, I can play various musical instrument like guitar, bass, and drums.",
+      "image": "music.png"
+    },
+    {
+      "title": "Algorithms",
+      "description": "I love solving riddles and problems and building stuff from scratch. My strong suit is that I don't give up without a fight. When trying to find the solution to a problem, I will not quit until I find at least one. The satisfaction I get from solving a problem can really make my day.",
+      "image": "algorithms.png"
+    },
+    {
+      "title": "Game",
+      "description": "I like strategy games, a game that uses my brain to win the game. I don't care if the game is single player or multiplayer, as long as the game is challenging. The last games that I played are Dota 2 and Just Cause 3",
+      "image": "game-console.png"
+    },
+    {
+      "title": "Writing",
+      "description": "I love to write stories about the knowledge that I have. By making articles on Medium, I learn many things and I hone my skills about algorithm and programming.",
+      "image": "writing.png"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Sunflower",
+      "description": "An app that helps to make your skin goals come true.",
+      "tags": "Development",
+      "image": "sunflower.png",
+      "link": "https://apps.apple.com/id/app/sunflower-skincare-reminder/id1542521924"
+    },
+    {
+      "title": "Allocat",
+      "description": "An app that motivate users to keep track of their expenses.",
+      "tags": "Development",
+      "image": "allocat.png",
+      "link": "https://apps.apple.com/id/app/allocat-expense-tracker/id1541456346"
+    },
+    {
+      "title": "Wufy",
+      "description": "An app that provides perfect program for dogs.",
+      "tags": "Development, Animation, Machine Learning",
+      "image": "wufy.png",
+      "link": "https://apps.apple.com/id/app/wufy-dog-training/id1535423130"
+    },
+    {
+      "title": "Stock Management System",
+      "description": "A web application for stock in PT Kota Katun.",
+      "tags": "Development, Concept",
+      "image": "kotakatun.png",
+      "link": ""
+    },
+    {
+      "title": "Fusions Visual",
+      "description": "A company profile website for my company.",
+      "tags": "Development, Concept",
+      "image": "fusions.png",
+      "link": "https://fusionsvisual.id"
+    }
+  ]
+}
